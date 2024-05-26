@@ -9,7 +9,15 @@ There are currently four file formats that it can be converted to:
 
 > Feel free to expand on this to cater for more extensions.
 
+### Installation Guide
+Install the necessary packages
+
+```
+pip install imageio rawpy pillow
+```
+
 ### Usage Guide
+
 ```
 [USAGE] 
 python main.py <directory> -f <formats>
